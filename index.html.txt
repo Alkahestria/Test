@@ -1,0 +1,15 @@
+<html>
+<head>
+</head>
+<body>
+	<div class ="panel">
+		sapbe
+	</div>
+	<div class ="panel">
+		bananero	
+	</div>
+	<div class ="panel">
+		el peluca
+	</div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+body{
+	color-backgroung: #FFFFFF;
+
+}
+
+.panel{
+	font-size: 1 em;
+}
