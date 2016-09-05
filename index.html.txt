@@ -11,5 +11,8 @@
 	<div class ="panel">
 		el peluca
 	</div>
+	<script href="jquery.js">
+		
+	</script>
 </body>
 </html>
